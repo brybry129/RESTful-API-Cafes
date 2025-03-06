@@ -3,7 +3,7 @@
 This is a locally hosted RESTful API I built in Python using Flask and SQLAlchemy. It can be used to get, add, or delete information about cafes.
 
 ## Dependencies
-This project requires a SQLAlchemy database named "cafes.db". To be able to use any of the GET functions you must first add info into the database. Please see the [POST Add a New Cafe](#POST-Add-a-New-Cafe) below. 
+This project requires a SQLAlchemy database named "cafes.db". To be able to use any of the GET functions you must first add info into the database.
 
 Install the modules needed:
 ```
